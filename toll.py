@@ -5,4 +5,4 @@ print (b)
 a = 5
 b = 10
 c = a + b
-Print (c)
+print (c)
