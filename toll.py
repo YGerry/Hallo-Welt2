@@ -4,4 +4,5 @@ b = 123456
 print (b)
 a = 5
 b = 10
-Print (a+b)
+c = a + b
+Print (c)
